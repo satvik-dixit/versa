@@ -135,7 +135,8 @@ We include [ ] and [x] to mark if the metirc is auto-installed in versa.
 | 36 | Speech enhancement-based CI-SDR [x] | se_snr | se_ci_sdr | [ESPnet](https://github.com/espnet/espnet.git) | |
 | 37 | Speech enhancement-based SAR [x] | se_snr | se_sar | [ESPnet](https://github.com/espnet/espnet.git) | |
 | 38 | Speech enhancement-based SDR [x] | se_snr | se_sdr | [ESPnet](https://github.com/espnet/espnet.git) | |
-| 39 | Audio Quality | pam | pam | [PAM](https://github.com/soham97/PAM/tree/main) | [Paper](https://arxiv.org/pdf/2402.00282)|
+| 39 | Audio Quality | pam | pam | [PAM](https://github.com/soham97/PAM/tree/main) | [paper](https://arxiv.org/pdf/2402.00282)|
+| 40 | Audio Caption Quality | mace | mace | [MACE](https://github.com/satvik-dixit/mace/tree/main) | [paper]([https://arxiv.org/pdf/2402.00282](https://arxiv.org/abs/2411.00321))|
 | A few more in verifying/progresss|
 
 
